@@ -4,8 +4,7 @@ import { BehaviorSubject, Observable, of, timer } from 'rxjs';
 import { map, tap } from 'rxjs/operators';
 import { Router } from '@angular/router';
 import { Location } from '@angular/common';
-import { environment } from '../environments/environment';
-
+import { environment } from '../../environments/environment';
 
 @Injectable({
   providedIn: 'root'

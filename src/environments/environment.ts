@@ -1,4 +1,4 @@
 export const environment = {
   production: false,
-  portal_url: 'https://rk.raegesports.com',
+  portal_url: 'http://localhost:8055',
 };
